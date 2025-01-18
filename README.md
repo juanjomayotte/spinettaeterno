@@ -2,6 +2,8 @@
 
 Spinetta Eterno is a tribute website dedicated to the Argentine musician Luis Alberto Spinetta, one of the most respected figures in Latin American music. This project features an interactive design, displaying information about Spinetta, his biography, and a collection of his latest YouTube videos.
 
+Visit SpinettaEterno at: https://juanjomayotte.github.io/spinettaeterno/ 
+
 ## Features
 
 - **Responsive design** with Tailwind CSS
